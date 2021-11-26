@@ -9,8 +9,8 @@ version: 0
 name: Rogelio 'BHONG' Almeda
 title: VOD and Network System Administrator
 email: B_H_O_N_G_2002@yahoo.com
-website: www.https://bhong2002.github.io/bhong2002/
-            www.http://bhong.servebeer.com
+website: www.http://bhong.servebeer.com
+# www.https://bhong2002.github.io/bhong2002/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -114,7 +114,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
