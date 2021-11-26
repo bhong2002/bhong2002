@@ -9,8 +9,7 @@ version: 0
 name: Rogelio 'BHONG' Almeda
 title: VOD and Network System Administrator
 email: bhong@example.com
-website: www.https://bhong2002.github.io/bhong2002/
-website: www.http://bhong.servebeer.com
+website: www.https://bhong2002.github.io/bhong2002/, www.http://bhong.servebeer.com
 
 # Dark Mode (true/false/never)
 darkmode: false
