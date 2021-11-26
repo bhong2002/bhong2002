@@ -3,13 +3,13 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 0
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Rogelio "BHONG" Almeda
+title: VOD System Administrator
+email: bhong@example.com
+website: https://bhong2002.github.io/bhong2002/#hi-there-
 
 # Dark Mode (true/false/never)
 darkmode: false
