@@ -9,7 +9,8 @@ version: 0
 name: Rogelio 'BHONG' Almeda
 title: VOD and Network System Administrator
 email: bhong@example.com
-website: www.github.com/sproogen/resume-theme
+website: www.https://bhong2002.github.io/bhong2002/
+website: www.http://bhong.servebeer.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -50,7 +51,7 @@ about_profile_image: images/15363312.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Bhong and I'm a VOD and network system administrator. As well as administrating systems I also have experience making software and web apps.
 
-  I am most skilled in: <mark>ARDUINO, Raspberry PI</mark> and <mark>Drinking Beer</mark>
+  I am most skilled in: <mark> ARDUINO, Raspberry PI, Linux(debian), Python(flask) and Flutter </mark> and <mark>Drinking Beer</mark>
 
 content:
   - title: Projects # Title for the section
