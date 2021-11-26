@@ -1,39 +1,39 @@
 # Site
-repository: bhong2002/bhong2002
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 0
+version: 2
 
 # Personal info
-name: Rogelio "BHONG" Almeda
-title: VOD System Administrator
-email: bhong@example.com
-website: https://bhong2002.github.io/bhong2002
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: facespics
-github_username:  bhong2002
-stackoverflow_username: "00000001"
+twitter_username: facespics
+github_username:  sproogen
+# stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ stackoverflow_username: "00000001"
 
 # About Section
 # about_title: About Me
-# about_profile_image: images/15363312.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
@@ -117,7 +117,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: bhong2002/bhong2002
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
@@ -125,4 +125,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
