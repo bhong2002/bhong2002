@@ -1,9 +1,12 @@
 theme: jekyll-theme-minimal
 
 version: 0
+darkmode: true
+
 #site: Bhong Almeda
-title: VOD and Network System Administrator
 name: Bhong Almeda
+title: VOD and Network System Administrator
+
 
 description: Bookmark this to keep an eye on my project updates!
 
