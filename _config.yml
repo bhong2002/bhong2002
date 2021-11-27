@@ -20,5 +20,10 @@ facebook_username: bhong.almeda
 
 about_profile_image: images/15363312.jpg
 
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Bhong and I'm a VOD and network system administrator. As well as administrating systems I also have experience making software and web apps.
+
+  I am most skilled in: <mark> ARDUINO, Raspberry PI, Linux(debian), Python(flask) and Flutter </mark> and <mark>Drinking Beer</mark>
+
 plugins:
  - jekyll-seo-tag
