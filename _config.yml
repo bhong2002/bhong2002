@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Bhong Almeda
 description: Bookmark this to keep an eye on my project updates!
 
-
+about_profile_image: images/15363312.jpg
 
 plugins:
  - jekyll-seo-tag
