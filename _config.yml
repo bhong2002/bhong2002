@@ -2,14 +2,10 @@ theme: jekyll-theme-minimal
 
 version: 0
 darkmode: true
-
-
 name: Bhong Almeda
 title: VOD and Network System Administrator
 
-
 email: B_H_O_N_G_2002@yahoo.com
-
 
 github_username:  bhong2002
 facebook_username: bhong.almeda
@@ -20,9 +16,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Bhong and I'm a VOD softwares and network system administrator. As well as administrating systems I also have experience making software and web apps.
   I am most skilled in: <mark>ARDUINO, Raspberry PI, Linux(debian), Python(flask) and Flutter.</mark>
 
-
 content:
-
   - title: Present Work
     layout: list
     content:
