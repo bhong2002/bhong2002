@@ -50,13 +50,11 @@ content:
     content:
       - layout: right
         title: TSI-ACSI(Sky Cable Contractor)
-        sub_title: Job title
+        sub_title: Job title 
+        description: Field Service Technician (FST)
         caption: April 20, 2021 - up to present
         link: http://www.tsi.com.ph
-  #      quote: >
-  #        Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Field Service Technician (FST)
+
   - title: Education
     layout: list
     content:
