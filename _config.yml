@@ -22,9 +22,9 @@ facebook_username: bhong.almeda
 about_profile_image: images/15363312.jpg
 
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bhong and I'm a VOD and network system administrator. As well as administrating systems I also have experience making software and web apps.
+  Hi, my name's Bhong and I'm a VOD softwares and network system administrator. As well as administrating systems I also have experience making software and web apps.
 
-  I am most skilled in: <mark>ARDUINO, Raspberry PI, Linux(debian), Python(flask) and Flutter</mark> and <mark>Drinking Beer.</mark>
+  I am most skilled in: <mark>ARDUINO, Raspberry PI, Linux(debian), Python(flask) and Flutter.</mark>
 
 
 content:
@@ -50,14 +50,14 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: TSI-ACSI(Sky Cable Contractor)
         sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        caption: April 20, 2021 - up to present
+        link: http://www.tsi.com.ph/?fbclid=IwAR1RxKEdzAhL_F5jgWfsRvZaE2zobn371ZcJMttKhUg-3cwQgNAM2SgCkv0
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Field Service Technician (FST)
   - title: Education
     layout: list
     content:
