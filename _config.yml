@@ -27,24 +27,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  #- title: Projects # Title for the section
-  #  layout: list # Type of content section (list/text)
-  #  content:
-  #    - layout: left
-  #      title: Project name
-  #      link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #      link_text: Link Text
-  #      additional_links:
-  #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #          icon: fab fa-facebook
-  #          url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #          icon: fab fa-github
-  #          url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #      quote: >
-  #         |# Short overview of the project (optional)
-  #      description: | # this will include new lines to allow paragraphs
-  #        Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -53,12 +35,6 @@ content:
         sub_title: _Field Service Technician (FST)_
         caption: April 20, 2021 - up to present
 
-#    content:
-#      - layout: right
-#        title: Soundway Entertainment Inc. (Closed)
-#        sub_title: VOD/POS software support
-#        caption: 
-
   - title: Education
     layout: list
     content:
@@ -66,15 +42,7 @@ content:
         title: Samson Technological Institute
         sub_title: Basic Electronics Service Technician
         caption: 1986
-#        quote: >
-#          Short institution or course description (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          Description of qualification
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
 
 plugins:
  - jekyll-seo-tag
