@@ -52,12 +52,7 @@ content:
         title: TSI-ACSI(Sky Cable Contractor)
         sub_title: _Field Service Technician (FST)_
         caption: April 20, 2021 - up to present
-<<<<<<< HEAD
-        link: http://www.tsi.com.ph/  
-=======
-        link: http://www.tsi.com.ph
-        
->>>>>>> parent of f1ddd45 (Update _config.yml)
+
     content:
       - layout: right
         title: Soundway Entertainment Inc. (Closed)
