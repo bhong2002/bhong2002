@@ -53,11 +53,11 @@ content:
         sub_title: _Field Service Technician (FST)_
         caption: April 20, 2021 - up to present
 
-    content:
-      - layout: right
-        title: Soundway Entertainment Inc. (Closed)
-        sub_title: VOD/POS software support
-        caption: 
+#    content:
+#      - layout: right
+#        title: Soundway Entertainment Inc. (Closed)
+#        sub_title: VOD/POS software support
+#        caption: 
 
   - title: Education
     layout: list
