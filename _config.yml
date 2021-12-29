@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+<<<<<<< HEAD
 
 version: 0
 darkmode: true
@@ -51,3 +52,7 @@ content:
         
 plugins:
  - jekyll-seo-tag
+=======
+title: Bhong Almeda's homepage
+description: Bookmark this to keep an eye on my project updates!
+>>>>>>> parent of 8a942f3 (Update _config.yml)
