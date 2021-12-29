@@ -27,7 +27,8 @@ content:
         caption: April 20, 2021 - up to present
         link: http://www.tsi.com.ph  
         
-        
+  - title: Present Work
+    layout: list       
     content:
       - layout: right
         title: Soundway Entertainment Inc. (Closed)
