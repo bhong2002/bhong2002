@@ -1,5 +1,8 @@
 ### Hi there 👋
-### ⚡ Fun fact: ...
+
+Hi, my name’s Bhong and I’m a VOD softwares and network system administrator. As well as administrating systems I also have experience making software and web apps. I am most skilled in ARDUINO, Raspberry PI, Linux(debian), Python(flask) and Flutter.
+
+### 😄 : ...
 
 <!--
 **bhong2002/bhong2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
