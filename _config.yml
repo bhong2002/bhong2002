@@ -28,8 +28,8 @@ content:
         link: http://www.tsi.com.ph  
         
   #- title: Previous Work
-    layout: list       
-    content:
+  #  layout: list       
+  #  content:
       - layout: right
         title: Soundway Entertainment Inc. (Closed)
         sub_title: VOD/POS software support
